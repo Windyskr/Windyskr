@@ -1,9 +1,2 @@
-- 👋 Hi, I’m @Windyskr
-- 👀 I’m interested in studying code.
-- 🌱 I’m currently learning c , h5, js, css and python.
-- 📫 How to reach me at windyskr#outlook.coooom
-
-<!---
-Windyskr/Windyskr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Windyskr's GitHub stats](https://github-readme-stats.vercel.app/api?username=windyskr&count_private=true&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?usernamewindyskr)
